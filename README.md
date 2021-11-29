@@ -7,3 +7,5 @@ letting us move back and forth through time.
 
 For example, in this first version of the file we
 will say that the cat goes bark.
+
+Put random funny memes in this public document so everyone knows you like memes.
